@@ -1,0 +1,6 @@
+{
+  "name": "LOGIC WORLD",
+  "description": "Videojuego 3D tipo Sandbox de mundo abierto, exploración, construcción, misiones y acertijos para desarrollar el pensamiento lógico, crítico y creativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
